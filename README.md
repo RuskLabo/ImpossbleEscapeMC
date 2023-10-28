@@ -18,7 +18,7 @@
 
 ### Discord
 
-
+#### [Discord](https://discord.gg/npWwCFEtw3)
 
 ###
 
