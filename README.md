@@ -16,9 +16,7 @@
 
 #### IP: iem.ruskserver.com  Ver 1.14-1.20.2
 
-### Discord
-
-#### [Discord](https://discord.gg/npWwCFEtw3)
+### [Discord](https://discord.gg/npWwCFEtw3)
 
 ###
 
