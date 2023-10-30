@@ -4,3 +4,4 @@
 * [全体規約](quan-ti-gui-yue.md)
 * [コマンド 一覧](komando.md)
 * [マップ一覧](mappu.md)
+* [パッチノート](patchinto.md)
